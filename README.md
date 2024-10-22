@@ -1,5 +1,5 @@
+<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px;">
 
-Копіювати код
 ## Hey 👋, I'm Nazar Lesiuk  
   
 
@@ -54,3 +54,5 @@ Excels in communication and collaboration with mixed teams, facilitating effecti
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Nazar7879&&style=flat-square)  
+
+</div>
