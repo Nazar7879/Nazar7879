@@ -46,13 +46,6 @@ Excels in communication and collaboration with mixed teams, facilitating effecti
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar7879&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
-
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Nazar7879&&style=flat-square)  
 
 </div>
