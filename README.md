@@ -10,7 +10,11 @@ Excels in communication and collaboration with mixed teams, facilitating effecti
 
 
 
-![Flutter](https://img.shields.io/badge/any_text-you_like-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+
 
 
 follow me 
