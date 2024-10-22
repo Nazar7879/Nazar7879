@@ -1,49 +1,22 @@
+
+Копіювати код
 ## Hey 👋, I'm Nazar Lesiuk  
   
 
 <a href="https://github.com/Nazar7879" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nazar-lesiuk-5a3612271/" target="_blank">
+<a href="https://linkedin.com/in/nazar-lesiuk-5a3612271/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
 
-
-
 ### Glad to see you here!  
-QA tester with expertise in manual testing and Agile methodologies.
-Proficient in using best practices to create detailed test plans, document product functionality, and propose feature improvements.
-The overall experience covers all aspects of software testing, from requirements analysis to developing and executing test cases, as well as compiling bug reports and test summaries.
+QA tester with expertise in manual testing and Agile methodologies.  
+Proficient in using best practices to create detailed test plans, document product functionality, and propose feature improvements.  
+The overall experience covers all aspects of software testing, from requirements analysis to developing and executing test cases, as well as compiling bug reports and test summaries.  
 Excels in communication and collaboration with mixed teams, facilitating effective communication and ensuring alignment between different departments.  
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -58,15 +31,12 @@ Excels in communication and collaboration with mixed teams, facilitating effecti
 ![TestRail](https://img.shields.io/badge/TestRail-333333?style=for-the-badge&logo=testrail&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=kanban&logoColor=white)
-![Test Case](https://img.shields.io/badge/Test_Case-0000FF?style=for-the-badge&logo=files&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-007EC6?style=for-the-badge&logo=test&logoColor=white)
 ![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
 
 
 ## Github Stats  
@@ -82,17 +52,5 @@ Excels in communication and collaboration with mixed teams, facilitating effecti
 
 <br/>  
 
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Nazar7879&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
