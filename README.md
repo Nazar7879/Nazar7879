@@ -7,6 +7,10 @@ Proficient in using best practices to create detailed test plans, document produ
 The overall experience covers all aspects of software testing, from requirements analysis to developing and executing test cases, as well as compiling bug reports and test summaries.
 Excels in communication and collaboration with mixed teams, facilitating effective communication and ensuring alignment between different departments.
 
-languagens and tools
+
+
+
+![Flutter](https://img.shields.io/badge/any_text-you_like-blue)
+
 
 follow me 
