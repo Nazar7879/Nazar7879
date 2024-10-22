@@ -1,5 +1,7 @@
 ![Header](https://github.com/Nazar7879/Nazar7879/blob/main/assert/giphy.gif)
 
+![Dark Background](https://github.com/Nazar7879/Nazar7879/blob/main/assert/dark_background_image.png)
+
 
 
 QA tester with expertise in manual testing and Agile methodologies.
