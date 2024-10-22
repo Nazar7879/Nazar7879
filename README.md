@@ -1,6 +1,6 @@
 ![Header](https://github.com/Nazar7879/Nazar7879/blob/main/assert/giphy.gif)
 
-![Dark Background](https://github.com/Nazar7879/Nazar7879/blob/main/assert/dark_background_image.png)
+
 
 
 
@@ -36,4 +36,4 @@ Excels in communication and collaboration with mixed teams, facilitating effecti
 
 
 
-follow me 
+[![LinkedIn](https://img.shields.io/badge/Follow_Me_on_LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-lesiuk-5a3612271/)
