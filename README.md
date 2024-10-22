@@ -1,21 +1,25 @@
-![Background](https://raw.githubusercontent.com/Nazar7879/Nazar7879/main/assert/photo.png)
+<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px;">
 
 ## Hey 👋, I'm Nazar Lesiuk  
+  
 
 <a href="https://github.com/Nazar7879" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/nazar-lesiuk-5a3612271/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+  
 
 ### Glad to see you here!  
 QA tester with expertise in manual testing and Agile methodologies.  
 Proficient in using best practices to create detailed test plans, document product functionality, and propose feature improvements.  
 The overall experience covers all aspects of software testing, from requirements analysis to developing and executing test cases, as well as compiling bug reports and test summaries.  
 Excels in communication and collaboration with mixed teams, facilitating effective communication and ensuring alignment between different departments.  
+  
 
-<br/>
+<br/>  
+
 
 ## Languages and Tools  
 
@@ -34,6 +38,7 @@ Excels in communication and collaboration with mixed teams, facilitating effecti
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -47,9 +52,7 @@ Excels in communication and collaboration with mixed teams, facilitating effecti
 
 <br/>  
 
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=Nazar7879&&style=flat-square)  
 
-<br/>
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
