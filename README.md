@@ -12,10 +12,7 @@
   
 
 ### Glad to see you here!  
-QA tester with expertise in manual testing and Agile methodologies.  
-Proficient in using best practices to create detailed test plans, document product functionality, and propose feature improvements.  
-The overall experience covers all aspects of software testing, from requirements analysis to developing and executing test cases, as well as compiling bug reports and test summaries.  
-Excels in communication and collaboration with mixed teams, facilitating effective communication and ensuring alignment between different departments.  
+QA Specialist with over 2 + years of experience in manual and automated testing | Expert in Playwright, Selenium, Postman, Python, SQL, and API testing | Successfully cut regression time by 55% through automation | Skilled in building scalable UI test frameworks with JavaScript and Node.js | Strong knowledge of Agile/Scrum practices, bug triaging, and cross-team collaboration | Solid technical support background with a focus on system troubleshooting and user satisfaction
   
 
 <br/>  
