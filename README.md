@@ -3,9 +3,10 @@
 ## Hey 👋, I'm Nazar Lesiuk  
   
 
-<a href="https://github.com/Nazar7879" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/Nazar7879" target="_blank" style="display: inline-block; margin-bottom: 5px;">
+  <img src="Profile.jpeg" alt="Nazar Lesiuk" width="150" style="border-radius: 50%;" />
 </a>
+
 <a href="https://linkedin.com/in/nazar-lesiuk-5a3612271/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
