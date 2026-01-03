@@ -25,21 +25,6 @@ QA Specialist | Automation & Manual Testing | Python, TypeScript & JavaScript | 
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazar7879&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar7879&hide_border=true&layout=compact&theme=tokyonight" width="48%" />
-</div>
-
----
-
-## 📈 GitHub Activity
-<div align="center">
-  ![Nazar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Nazar7879&theme=react-dark)
-</div>
-
----
-
 ![Profile views](https://komarev.com/ghpvc/?username=Nazar7879&style=flat-square)
 
 </div>
